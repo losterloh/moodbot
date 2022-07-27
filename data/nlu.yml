@@ -7,9 +7,6 @@ nlu:
       hi
   - text: |
       hey there!
-    metadata:
-      annotator: lo
-
 - intent: goodbye
   examples: |
     - cu
